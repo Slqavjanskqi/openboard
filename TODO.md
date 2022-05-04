@@ -59,7 +59,7 @@
     - [ ] Interslavic (isv)
     - [ ] Modern Slavonic (sla)
       
-    - [x] English (en/eng)
+    - [ ] English (en/eng)
     - [ ] German (de/deu)
     - [ ] French (fr/fra)
       
