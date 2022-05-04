@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+/*
+**
+** Copyright 2012, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+-->
+
+<merge xmlns:latin="http://schemas.android.com/apk/res-auto">
+    <!-- U+0467: "ѧ" CYRILLIC LETTER æ -->
+    <Key
+        latin:additionalMoreKeys="*,ѧ,ѩ,ⱕ,ⷽ"
+        latin:keyHintLabel="*"
+        latin:keySpec="ⱔ" />
+    <!-- U+0447: "ч" CYRILLIC LETTER č -->
+    <Key
+        latin:additionalMoreKeys="&quot;,ч,ћ,ꙉ,ⷱ,ⷸ"
+        latin:keyHintLabel="&quot;"
+        latin:keySpec="ⱍ" />
+    <!-- U+0441: "с" CYRILLIC LETTER s -->
+    <Key
+        latin:additionalMoreKeys="&apos;,с,ѕ,ⷭ"
+        latin:keyHintLabel="&apos;"
+        latin:keySpec="ⱄ" />
+    <!-- U+043C: "м" CYRILLIC LETTER m -->
+    <Key
+        latin:additionalMoreKeys=":,м,ⱞ,ⷨ"
+        latin:keyHintLabel=":"
+        latin:keySpec="ⰿ" />
+    <!-- U+0438: "и" CYRILLIC LETTER ĩ -->
+    <Key
+        latin:additionalMoreKeys=";,и,й,ⰺ,ꙵ"
+        latin:keyHintLabel=";"
+        latin:keySpec="ⰻ" />
+    <!-- U+0442: "т" CYRILLIC LETTER t -->
+    <Key
+        latin:additionalMoreKeys="!,т,ѿ,ⷮ"
+        latin:keyHintLabel="!"
+        latin:keySpec="ⱅ" />
+    <!-- U+0431: "б" CYRILLIC LETTER b -->
+    <Key
+        latin:additionalMoreKeys="\\?,б,ⷠ"
+        latin:keyHintLabel="\?"
+        latin:keySpec="ⰱ" />
+    <!-- U+044C: "ь" CYRILLIC LETTER ʲ -->
+    <Key
+        latin:additionalMoreKeys="&lt;,ь,ꙺ,ꚝ"
+        latin:keyHintLabel="&lt;"
+        latin:keySpec="ⱐ" />
+    <!-- U+0458: "ј" CYRILLIC LETTER ј -->
+    <Key
+        latin:additionalMoreKeys="&gt;,ј,ї,ꙶ"
+        latin:keyHintLabel="&gt;"
+        latin:keySpec="ⰹ" />
+</merge>

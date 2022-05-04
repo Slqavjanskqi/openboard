@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+/*
+**
+** Copyright 2012, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+-->
+
+<merge xmlns:latin="http://schemas.android.com/apk/res-auto">
+    <!-- U+046B: "ѫ" CYRILLIC LETTER ǔ -->
+    <Key
+        latin:additionalMoreKeys="1,ѫ,ѭ,ⱙ,ԛ,ⷾ,ⷿ"
+        latin:keyHintLabel="1"
+        latin:keySpec="ⱖ" />
+    <!-- U+0446: "ц" CYRILLIC LETTER c -->
+    <Key
+        latin:additionalMoreKeys="2,ц,ҁ,ⷰ"
+        latin:keyHintLabel="2"
+        latin:keySpec="ⱌ" />
+    <!-- U+0443: "у" CYRILLIC LETTER SHORT ou -->
+    <Key
+        latin:additionalMoreKeys="3,у,ю,ⱘ,ꙋ,ⱓ,ⷹ,ⷻ,ꙷ"
+        latin:keyHintLabel="3"
+        latin:keySpec="ⱆ" />
+    <!-- U+043A: "к" CYRILLIC LETTER k -->
+    <Key
+        latin:additionalMoreKeys="4,к,ⷦ"
+        latin:keyHintLabel="4"
+        latin:keySpec="ⰽ" />
+    <!-- U+0435: "е" CYRILLIC LETTER e -->
+    <Key
+        latin:additionalMoreKeys="5,е,ё,ⰵ,ѥ,ⱗ,э,є,ꙴ,ⷷ,ꚟ"
+        latin:keyHintLabel="5"
+        latin:keySpec="ⰵ" />
+    <!-- U+043D: "н" CYRILLIC LETTER n -->
+    <Key
+        latin:additionalMoreKeys="6,н,њ,ⷩ"
+        latin:keyHintLabel="6"
+        latin:keySpec="ⱀ" />
+    <!-- U+0433: "г" CYRILLIC LETTER h -->
+    <Key
+        latin:additionalMoreKeys="7,г,ґ,ⰳ,ⷢ"
+        latin:keyHintLabel="7"
+        latin:keySpec="ⱈ" />
+    <!-- U+0448: "ш" CYRILLIC LETTER š -->
+    <Key
+        latin:additionalMoreKeys="8,ш,щ,ⱋ,ⷲ,ⷳ"
+        latin:keyHintLabel="8"
+        latin:keySpec="ⱎ" />
+    <!-- U+0456: "і" CYRILLIC LETTER i -->
+    <Key
+        latin:additionalMoreKeys="9,і,ї,ⰹ,ꙶ"
+        latin:keyHintLabel="9"
+        latin:keySpec="ⱜ" />
+    <!-- U+0437: "з" CYRILLIC LETTER z -->
+    <Key
+        latin:additionalMoreKeys="0,з,ѯ,ⰷ,ꙁ,ꙃ,ⷥ"
+        latin:keyHintLabel="0"
+        latin:keySpec="ⰸ" />
+    <!-- U+0445: "х" CYRILLIC LETTER x -->
+    <Key
+        latin:additionalMoreKeys="×,х,ⷯ"
+        latin:keyHintLabel="×"
+        latin:keySpec="ⱒ" />
+</merge>

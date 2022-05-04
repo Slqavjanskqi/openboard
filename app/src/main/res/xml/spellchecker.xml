@@ -142,6 +142,42 @@
     />
     <subtype
             android:label="@string/subtype_generic"
+            android:subtypeLocale="chu_BGBDS|chu_CyrlE1|chu_CyrsUcouke"
+    />
+    <subtype
+            android:label="@string/subtype_generic"
+            android:subtypeLocale="chu_GlagUcouke|chu_GlagE1"
+    />
+    <subtype
+            android:label="@string/subtype_generic"
+            android:subtypeLocale="chu_LatnE1"
+    />
+    <subtype
+            android:label="@string/subtype_generic"
+            android:subtypeLocale="isv_BGBDS|isv_CyrlE1|isv_CyrsUcouke"
+    />
+    <subtype
+            android:label="@string/subtype_generic"
+            android:subtypeLocale="isv_GlagUcouke|isv_GlagE1"
+    />
+    <subtype
+            android:label="@string/subtype_generic"
+            android:subtypeLocale="isv_LatnE1"
+    />
+    <subtype
+            android:label="@string/subtype_generic"
+            android:subtypeLocale="sla_BGBDS|sla_CyrlE1|sla_CyrsUcouke"
+    />
+    <subtype
+            android:label="@string/subtype_generic"
+            android:subtypeLocale="sla_GlagUcouke|sla_GlagE1"
+    />
+    <subtype
+            android:label="@string/subtype_generic"
+            android:subtypeLocale="sla_LatnE1"
+    />
+    <subtype
+            android:label="@string/subtype_generic"
             android:subtypeLocale="sr"
     />
     <subtype
