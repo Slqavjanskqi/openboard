@@ -20,52 +20,52 @@
 <merge xmlns:latin="http://schemas.android.com/apk/res-auto">
     <!-- U+046B: "ѫ" CYRILLIC LETTER ǔ -->
     <Key
-        latin:additionalMoreKeys="1,ⱖ,ѭ,ⱙ,ԛ,ⷾ,ⷿ"
+        latin:additionalMoreKeys="1,ⱖ,ѭ,ⱙ,ԛ,ⷾ,ⷿ,&#x1E026;,&#x1E029;"
         latin:keyHintLabel="1"
         latin:keySpec="&#x046B;" />
     <!-- U+0446: "ц" CYRILLIC LETTER c -->
     <Key
-        latin:additionalMoreKeys="2,ⱌ,ҁ,ⷰ"
+        latin:additionalMoreKeys="2,ⱌ,ҁ,ⷰ,&#x1E01C;"
         latin:keyHintLabel="2"
         latin:keySpec="&#x0446;" />
     <!-- U+0443: "у" CYRILLIC LETTER SHORT ou -->
     <Key
-        latin:additionalMoreKeys="3,ⱆ,ю,ⱘ,ꙋ,ⱓ,ⷹ,ⷻ,ꙷ"
+        latin:additionalMoreKeys="3,ⱆ,ю,ⱘ,ꙋ,ⱓ,ⷹ,ⷻ,ꙷ,&#x1E016;,&#x1E023;,&#x1E028;"
         latin:keyHintLabel="3"
         latin:keySpec="&#x0443;" />
     <!-- U+043A: "к" CYRILLIC LETTER k -->
     <Key
-        latin:additionalMoreKeys="4,ⰽ,ⷦ"
+        latin:additionalMoreKeys="4,ⰽ,ⷦ,&#x1E00D;"
         latin:keyHintLabel="4"
         latin:keySpec="&#x043A;" />
     <!-- U+0435: "е" CYRILLIC LETTER e -->
     <Key
-        latin:additionalMoreKeys="5,ё,ⰵ,ѥ,ⱗ,э,є,ꙴ,ⷷ,ꚟ"
+        latin:additionalMoreKeys="5,ё,ⰵ,ѥ,ⱗ,э,є,ꙴ,ⷷ,ꚟ,&#x1E005;,&#x1E027;"
         latin:keyHintLabel="5"
         latin:keySpec="&#x0435;" />
     <!-- U+043D: "н" CYRILLIC LETTER n -->
     <Key
-        latin:additionalMoreKeys="6,ⱀ,њ,ⷩ"
+        latin:additionalMoreKeys="6,ⱀ,њ,ⷩ,&#x1E010;"
         latin:keyHintLabel="6"
         latin:keySpec="&#x043D;" />
     <!-- U+0433: "г" CYRILLIC LETTER h -->
     <Key
-        latin:additionalMoreKeys="7,ⱈ,ґ,ⰳ,ⷢ"
+        latin:additionalMoreKeys="7,ⱈ,ґ,ⰳ,ⷢ,&#x1E003;,&#x1E018;"
         latin:keyHintLabel="7"
         latin:keySpec="&#x0433;" />
     <!-- U+0448: "ш" CYRILLIC LETTER š -->
     <Key
-        latin:additionalMoreKeys="8,ⱎ,щ,ⱋ,ⷲ,ⷳ"
+        latin:additionalMoreKeys="8,ⱎ,щ,ⱋ,ⷲ,ⷳ,&#x1E01E;,&#x1E01B;"
         latin:keyHintLabel="8"
         latin:keySpec="&#x0448;" />
     <!-- U+0456: "і" CYRILLIC LETTER i -->
     <Key
-        latin:additionalMoreKeys="9,ⱜ,ї,ⰹ,ꙶ"
+        latin:additionalMoreKeys="9,ⱜ,ї,ⰹ,ꙶ,&#x1E009;"
         latin:keyHintLabel="9"
         latin:keySpec="&#x0456;" />
     <!-- U+0437: "з" CYRILLIC LETTER z -->
     <Key
-        latin:additionalMoreKeys="0,ⰸ,ѯ,ⰷ,ꙁ,ꙃ,ⷥ"
+        latin:additionalMoreKeys="0,ⰸ,ѯ,ⰷ,ꙁ,ꙃ,ⷥ,&#x1E008;"
         latin:keyHintLabel="0"
         latin:keySpec="&#x0437;" />
     <!-- U+0445: "х" CYRILLIC LETTER x -->

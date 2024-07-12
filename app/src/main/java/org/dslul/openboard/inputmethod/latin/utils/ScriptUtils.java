@@ -49,6 +49,8 @@ public class ScriptUtils {
     public static final int SCRIPT_TELUGU = 16;
     public static final int SCRIPT_THAI = 17;
     public static final int SCRIPT_BULGARIAN = 18;
+    public static final int SCRIPT_GLAGOLITIC = 19;
+
 
     public static final String LANGUAGE_GEORGIAN = "ka";
 
@@ -77,6 +79,7 @@ public class ScriptUtils {
         mLanguageCodeToScriptCode.put("te", SCRIPT_TELUGU);
         mLanguageCodeToScriptCode.put("th", SCRIPT_THAI);
         mLanguageCodeToScriptCode.put("uk", SCRIPT_CYRILLIC);
+        mLanguageCodeToScriptCode.put("hr", SCRIPT_GLAGOLITIC);
 
         NON_UPPERCASE_SCRIPTS.add(LANGUAGE_GEORGIAN);
     }
@@ -123,6 +126,12 @@ public class ScriptUtils {
                 // Unicode range, but they are archaic characters that are not used in modern
                 // Russian and are not used by our dictionary.
                 return codePoint >= 0x400 && codePoint <= 0x52F && Character.isLetter(codePoint);
+            case SCRIPT_GLAGOLITIC:
+                // U+2C00-U+2C5F & U+1E001-U+1E006, U+1E008-U+1E00F, U+1E010-U+1E018, U+1E01B-U+1E01F, U+1E020-U+1E021, U+1E023-U+1E024, U+1E026-U+1E02A
+                // aprx. U+2C00-U+2C5F & U+1E000-U+1E02F
+                // The Unicode block for Glagolitic is U+2C00–U+2C5F.
+                // The Glagolitic combining letters for Glagolitic Supplement block (U+1E000–U+1E02F) was added to the Unicode Standard in June, 2016 with the release of version 9.0
+                return (codePoint >= 0x2C00 && codePoint <= 0x2C5F || codePoint >= 0x1E000 && codePoint <= 0x1E02F);
             case SCRIPT_DEVANAGARI:
                 // Devanagari unicode block is +0900..U+097F
                 return (codePoint >= 0x900 && codePoint <= 0x97F);

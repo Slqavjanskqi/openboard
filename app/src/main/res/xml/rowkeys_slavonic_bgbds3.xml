@@ -20,17 +20,17 @@
 <merge xmlns:latin="http://schemas.android.com/apk/res-auto">
     <!-- U+0458: "ј" CYRILLIC LETTER ј -->
     <Key
-        latin:additionalMoreKeys="*,ї,ⰹ,ꙶ"
+        latin:additionalMoreKeys="*,ї,ⰹ,ꙶ,&#x1E009;"
         latin:keyHintLabel="*"
         latin:keySpec="&#x0458;" />
     <!-- U+044C: "ь" CYRILLIC LETTER ʲ -->
     <Key
-        latin:additionalMoreKeys="&quot;,ⱐ,ꙺ,ꚝ"
+        latin:additionalMoreKeys="&quot;,ⱐ,ꙺ,ꚝ,&#x1E020;"
         latin:keyHintLabel="&quot;"
         latin:keySpec="&#x044C;" />
     <!-- U+0456: "і" CYRILLIC LETTER i -->
     <Key
-        latin:additionalMoreKeys="&apos;,ⱜ,ї,ⰹ,ꙶ"
+        latin:additionalMoreKeys="&apos;,ⱜ,ї,ⰹ,ꙶ,&#x1E009;"
         latin:keyHintLabel="&apos;"
         latin:keySpec="&#x0456;" />
     <!-- U+044B: "ы" CYRILLIC LETTER y -->
@@ -40,7 +40,7 @@
         latin:keySpec="&#x044B;" />
     <!-- U+0444: "ф" CYRILLIC LETTER f -->
     <Key
-        latin:additionalMoreKeys=";,ⱇ,ѳ,ⱚ,ⷴ,ꚛ"
+        latin:additionalMoreKeys=";,ⱇ,ѳ,ⱚ,ⷴ,ꚛ,&#x1E017;,&#x1E02A;"
         latin:keyHintLabel=";"
         latin:keySpec="&#x0444;" />
     <!-- U+0445: "х" CYRILLIC LETTER x -->
@@ -50,17 +50,17 @@
         latin:keySpec="&#x0445;" />
     <!-- U+043F: "п" CYRILLIC LETTER p -->
     <Key
-        latin:additionalMoreKeys="\\?,ⱂ,ⱊ,ⷫ"
+        latin:additionalMoreKeys="\\?,ⱂ,ⱊ,ⷫ,&#x1E012;"
         latin:keyHintLabel="\?"
         latin:keySpec="&#x043F;" />
     <!-- U+0440: "р" CYRILLIC LETTER r -->
     <Key
-        latin:additionalMoreKeys="&lt;,ⱃ,ⷬ"
+        latin:additionalMoreKeys="&lt;,ⱃ,ⷬ,&#x1E013;"
         latin:keyHintLabel="&lt;"
         latin:keySpec="&#x0440;" />
     <!-- U+043B: "л" CYRILLIC LETTER l -->
     <Key
-        latin:additionalMoreKeys="&gt;,ⰾ,љ,ⷧ"
+        latin:additionalMoreKeys="&gt;,ⰾ,љ,ⷧ,&#x1E00E;"
         latin:keyHintLabel="&gt;"
         latin:keySpec="&#x043B;" />
 </merge>
