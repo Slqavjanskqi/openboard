@@ -10,7 +10,7 @@ android {
         minSdkVersion 19
         targetSdkVersion 31
         versionCode 19
-        versionName '1.4.5'
+        versionName '3.6.5'
     }
 
     buildTypes {
@@ -30,13 +30,14 @@ android {
         }
     }
 
-    lintOptions {
-        abortOnError false
-    }
 
     ndkVersion '21.3.6528147'
     androidResources {
         noCompress 'dict'
+    }
+    namespace 'org.dslul.openboard.inputmethod.latin'
+    lint {
+        abortOnError false
     }
 }
 
