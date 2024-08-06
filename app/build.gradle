@@ -10,7 +10,7 @@ android {
         minSdkVersion 19
         targetSdkVersion 31
         versionCode 19
-        versionName '3.6.5'
+        versionName '3.6.6'
     }
 
     buildTypes {
@@ -38,6 +38,11 @@ android {
     namespace 'org.dslul.openboard.inputmethod.latin'
     lint {
         abortOnError false
+    }
+    packagingOptions {
+        jniLibs {
+            useLegacyPackaging false
+        }
     }
 }
 
