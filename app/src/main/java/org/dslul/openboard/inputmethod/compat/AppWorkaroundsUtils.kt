@@ -12,11 +12,11 @@ class AppWorkaroundsUtils(private val mPackageInfo: PackageInfo?) {
         }
         val s = StringBuilder()
         s.append("Target application : ")
-                .append(mPackageInfo.applicationInfo.name)
+                .append(mPackageInfo.applicationInfo!!.name)
                 .append("\nPackage : ")
-                .append(mPackageInfo.applicationInfo.packageName)
+                .append(mPackageInfo.applicationInfo!!.packageName)
                 .append("\nTarget app sdk version : ")
-                .append(mPackageInfo.applicationInfo.targetSdkVersion)
+                .append(mPackageInfo.applicationInfo!!.targetSdkVersion)
         return s.toString()
     }
 
