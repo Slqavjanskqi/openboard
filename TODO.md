@@ -1,14 +1,30 @@
 ### TODO
 
-- [ ] Glagolitic Script Support
+- [x] Glagolitic Script Support
 - [x] Non-ISO Language Codes Support
-  
 
-- [ ] Church Slavonic
-    - [ ] Cyrillic Script
+
+- [ ] Slavonic
+    - [x] Cyrillic Script
         - [x] Bulgarian BDS Keyboard Layout
         - [x] European E1 Keyboard Layout
         - [x] Russian UCOUKEN Keyboard Layout
+    - [x] Glagolitic Script
+        - [x] European E1 Keyboard Layout
+        - [x] Russian UCOUKEN Keyboard Layout
+    - [x] Latin Script
+        - [x] European E1 Keyboard Layout
+    - [ ] Spellchecker
+        - [ ] Cyrillic
+        - [ ] Glagolitic
+        - [ ] Latin
+
+
+- [ ] Church Slavonic
+    - [ ] Cyrillic Script
+        - [ ] Bulgarian BDS Keyboard Layout
+        - [ ] European E1 Keyboard Layout
+        - [ ] Russian UCOUKEN Keyboard Layout
     - [ ] Glagolitic Script
         - [ ] European E1 Keyboard Layout
         - [ ] Russian UCOUKEN Keyboard Layout
@@ -22,9 +38,9 @@
 
 - [ ] Interslavic
     - [ ] Cyrillic Script
-        - [x] Bulgarian BDS Keyboard Layout
-        - [x] European E1 Keyboard Layout
-        - [x] Russian UCOUKEN Keyboard Layout
+        - [ ] Bulgarian BDS Keyboard Layout
+        - [ ] European E1 Keyboard Layout
+        - [ ] Russian UCOUKEN Keyboard Layout
     - [ ] Glagolitic Script
         - [ ] European E1 Keyboard Layout
         - [ ] Russian UCOUKEN Keyboard Layout
@@ -38,22 +54,6 @@
         - [ ] Latin Etymological
 
 
-- [ ] Modern Slavonic
-    - [ ] Cyrillic Script
-        - [x] Bulgarian BDS Keyboard Layout
-        - [x] European E1 Keyboard Layout
-        - [x] Russian UCOUKEN Keyboard Layout
-    - [ ] Glagolitic Script
-        - [ ] European E1 Keyboard Layout
-        - [ ] Russian UCOUKEN Keyboard Layout
-    - [ ] Latin Script
-        - [ ] European E1 Keyboard Layout
-    - [ ] Spellchecker
-        - [ ] Cyrillic
-        - [ ] Glagolitic
-        - [ ] Latin
-
-    
 - [ ] Translations
     - [ ] (Old) Church Slavonic (cu/chu)
     - [ ] Interslavic (isv)

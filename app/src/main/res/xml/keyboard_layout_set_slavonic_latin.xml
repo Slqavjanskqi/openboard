@@ -18,9 +18,10 @@
 -->
 
 <KeyboardLayoutSet xmlns:latin="http://schemas.android.com/apk/res-auto">
-    <Feature latin:supportedScript="latin" />
-
+    <Feature
+        latin:supportedScript="latin" />
     <Element
+        latin:allowRedundantMoreKeys="true"
         latin:elementKeyboard="@xml/kbd_slavonic_latin"
         latin:elementName="alphabet"
         latin:enableProximityCharsCorrection="true" />

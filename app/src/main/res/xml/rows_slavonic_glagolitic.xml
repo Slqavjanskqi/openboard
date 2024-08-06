@@ -27,7 +27,7 @@
         </case>
     </switch>
     <switch>
-        <case latin:countryCode="glagucouke">
+        <case latin:localeCode="sla_GLAGUCOUKE">
             <Row latin:keyWidth="9.091%p">
                 <include latin:keyboardLayout="@xml/rowkeys_slavonic_glagucouke1" />
             </Row>
@@ -44,7 +44,7 @@
                     latin:keyWidth="fillRight" />
             </Row>
         </case>
-        <case latin:countryCode="glage1">
+        <case latin:localeCode="sla_GLAGE1">
             <Row latin:keyWidth="9.091%p">
                 <include latin:keyboardLayout="@xml/rowkeys_slavonic_glage11" />
             </Row>

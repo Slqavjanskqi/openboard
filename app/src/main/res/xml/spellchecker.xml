@@ -146,39 +146,39 @@
     />
     <subtype
             android:label="@string/subtype_generic"
-            android:subtypeLocale="chu_BGBDS|chu_CyrlE1|chu_CyrsUcouke"
+            android:subtypeLocale="chu_BGBDS|chu_CYRLE1|chu_CYRSUCOUKE"
     />
     <subtype
             android:label="@string/subtype_generic"
-            android:subtypeLocale="chu_GlagUcouke|chu_GlagE1"
+            android:subtypeLocale="chu_GLAGUCOUKE|chu_GLAGE1"
     />
     <subtype
             android:label="@string/subtype_generic"
-            android:subtypeLocale="chu_LatnE1"
+            android:subtypeLocale="chu_LATNE1"
     />
     <subtype
             android:label="@string/subtype_generic"
-            android:subtypeLocale="isv_BGBDS|isv_CyrlE1|isv_CyrsUcouke"
+            android:subtypeLocale="isv_BGBDS|isv_CYRLE1|isv_CYRSUCOUKE"
     />
     <subtype
             android:label="@string/subtype_generic"
-            android:subtypeLocale="isv_GlagUcouke|isv_GlagE1"
+            android:subtypeLocale="isv_GLAGUCOUKE|isv_GLAGE1"
     />
     <subtype
             android:label="@string/subtype_generic"
-            android:subtypeLocale="isv_LatnE1"
+            android:subtypeLocale="isv_LATNE1"
     />
     <subtype
             android:label="@string/subtype_generic"
-            android:subtypeLocale="sla_BGBDS|sla_CyrlE1|sla_CyrsUcouke"
+            android:subtypeLocale="sla_BGBDS|sla_CYRLE1|sla_CYRSUCOUKE"
     />
     <subtype
             android:label="@string/subtype_generic"
-            android:subtypeLocale="sla_GlagUcouke|sla_GlagE1"
+            android:subtypeLocale="sla_GLAGUCOUKE|sla_GLAGE1"
     />
     <subtype
             android:label="@string/subtype_generic"
-            android:subtypeLocale="sla_LatnE1"
+            android:subtypeLocale="sla_LATNE1"
     />
     <subtype
             android:label="@string/subtype_generic"

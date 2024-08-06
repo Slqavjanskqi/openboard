@@ -18,8 +18,8 @@
 -->
 
 <KeyboardLayoutSet xmlns:latin="http://schemas.android.com/apk/res-auto">
-    <Feature latin:supportedScript="cyrillic" />
-
+    <Feature
+        latin:supportedScript="cyrillic" />
     <Element
         latin:elementKeyboard="@xml/kbd_slavonic_cyrillic"
         latin:elementName="alphabet"

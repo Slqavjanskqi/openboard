@@ -582,45 +582,45 @@ disposition rather than other common dispositions for Latin languages. [CHAR LIM
     <!-- Description indicating amoled mode can lower power usage depending on the screen of the device. -->
     <string name="amoled_mode_summary">Can reduce power usage depending on the device’s screen technology</string>
 
-    <string name="subtype_chu_BGBDS">Church Slavonic (Cyrillic Bulgarian)</string>
+    <string name="subtype_chu_BGBDS">Church Slavonic (Cyrillic BDS)</string>
     <string name="subtype_chu_CyrlE1">Church Slavonic (Cyrillic E1)</string>
-    <string name="subtype_chu_CyrsUcouke">Church Slavonic (Cyrillic Russian)</string>
-    <string name="subtype_chu_GlagUcouke">Church Slavonic (Glagolitic Russian)</string>
+    <string name="subtype_chu_CyrsUcouke">Church Slavonic (Cyrillic UCOUKE)</string>
+    <string name="subtype_chu_GlagUcouke">Church Slavonic (Glagolitic UCOUKE)</string>
     <string name="subtype_chu_GlagE1">Church Slavonic (Glagolitic E1)</string>
     <string name="subtype_chu_LatnE1">Church Slavonic (Latin E1)</string>
 
-    <string name="subtype_isv_BGBDS">Interslavic (Cyrillic Bulgarian)</string>
+    <string name="subtype_isv_BGBDS">Interslavic (Cyrillic BDS)</string>
     <string name="subtype_isv_CyrlE1">Interslavic (Cyrillic E1)</string>
-    <string name="subtype_isv_CyrsUcouke">Interslavic (Cyrillic Russian)</string>
-    <string name="subtype_isv_GlagUcouke">Interslavic (Glagolitic Russian)</string>
+    <string name="subtype_isv_CyrsUcouke">Interslavic (Cyrillic UCOUKE)</string>
+    <string name="subtype_isv_GlagUcouke">Interslavic (Glagolitic UCOUKE)</string>
     <string name="subtype_isv_GlagE1">Interslavic (Glagolitic E1)</string>
     <string name="subtype_isv_LatnE1">Interslavic (Latin E1)</string>
 
-    <string name="subtype_sla_BGBDS">Slavonic (Cyrillic Bulgarian)</string>
+    <string name="subtype_sla_BGBDS">Slavonic (Cyrillic BDS)</string>
     <string name="subtype_sla_CyrlE1">Slavonic (Cyrillic E1)</string>
-    <string name="subtype_sla_CyrsUcouke">Slavonic (Cyrillic Russian)</string>
-    <string name="subtype_sla_GlagUcouke">Slavonic (Glagolitic Russian)</string>
+    <string name="subtype_sla_CyrsUcouke">Slavonic (Cyrillic UCOUKE)</string>
+    <string name="subtype_sla_GlagUcouke">Slavonic (Glagolitic UCOUKE)</string>
     <string name="subtype_sla_GlagE1">Slavonic (Glagolitic E1)</string>
     <string name="subtype_sla_LatnE1">Slavonic (Latin E1)</string>
 
-    <string name="subtype_with_layout_chu_BGBDS">Church Slavonic (Cyrillic Bulgarian)(<xliff:g id="KEYBOARD_LAYOUT" example="ѪУЕИШК">%s</xliff:g>)</string>
+    <string name="subtype_with_layout_chu_BGBDS">Church Slavonic (Cyrillic BDS)(<xliff:g id="KEYBOARD_LAYOUT" example="ѪУЕИШК">%s</xliff:g>)</string>
     <string name="subtype_with_layout_chu_CyrlE1">Church Slavonic (Cyrillic E1)(<xliff:g id="KEYBOARD_LAYOUT" example="ЪУЕРТЗ">%s</xliff:g>)</string>
-    <string name="subtype_with_layout_chu_CyrsUcouke">Church Slavonic (Cyrillic Russian)(<xliff:g id="KEYBOARD_LAYOUT" example="ѪЦУКЕН">%s</xliff:g>)</string>
-    <string name="subtype_with_layout_chu_GlagUcouke">Church Slavonic (Glagolitic Russian)(<xliff:g id="KEYBOARD_LAYOUT" example="ⰦⰜⰖⰍⰅⰐ">%s</xliff:g>)</string>
+    <string name="subtype_with_layout_chu_CyrsUcouke">Church Slavonic (Cyrillic UCOUKE)(<xliff:g id="KEYBOARD_LAYOUT" example="ѪЦУКЕ">%s</xliff:g>)</string>
+    <string name="subtype_with_layout_chu_GlagUcouke">Church Slavonic (Glagolitic UCOUKE)(<xliff:g id="KEYBOARD_LAYOUT" example="ⰦⰜⰖⰍⰅ">%s</xliff:g>)</string>
     <string name="subtype_with_layout_chu_GlagE1">Church Slavonic (Glagolitic E1)(<xliff:g id="KEYBOARD_LAYOUT" example="ⰟⰖⰅⰓⰕⰈ">%s</xliff:g>)</string>
     <string name="subtype_with_layout_chu_LatnE1">Church Slavonic (Latin E1)(<xliff:g id="KEYBOARD_LAYOUT" example="QWERTZ">%s</xliff:g>)</string>
 
-    <string name="subtype_with_layout_isv_BGBDS">Interslavic  (Cyrillic Bulgarian)(<xliff:g id="KEYBOARD_LAYOUT" example="ѪУЕИШК">%s</xliff:g>)</string>
+    <string name="subtype_with_layout_isv_BGBDS">Interslavic  (Cyrillic BDS)(<xliff:g id="KEYBOARD_LAYOUT" example="ѪУЕИШК">%s</xliff:g>)</string>
     <string name="subtype_with_layout_isv_CyrlE1">Interslavic (Cyrillic E1)(<xliff:g id="KEYBOARD_LAYOUT" example="ЪУЕРТЗ">%s</xliff:g>)</string>
-    <string name="subtype_with_layout_isv_CyrsUcouke">Interslavic (Cyrillic Russian)(<xliff:g id="KEYBOARD_LAYOUT" example="ѪЦУКЕН">%s</xliff:g>)</string>
-    <string name="subtype_with_layout_isv_GlagUcouke">Interslavic (Glagolitic Russian)(<xliff:g id="KEYBOARD_LAYOUT" example="ⰦⰜⰖⰍⰅⰐ">%s</xliff:g>)</string>
+    <string name="subtype_with_layout_isv_CyrsUcouke">Interslavic (Cyrillic UCOUKE)(<xliff:g id="KEYBOARD_LAYOUT" example="ѪЦУКЕ">%s</xliff:g>)</string>
+    <string name="subtype_with_layout_isv_GlagUcouke">Interslavic (Glagolitic UCOUKE)(<xliff:g id="KEYBOARD_LAYOUT" example="ⰦⰜⰖⰍⰅ">%s</xliff:g>)</string>
     <string name="subtype_with_layout_isv_GlagE1">Interslavic (Glagolitic E1)(<xliff:g id="KEYBOARD_LAYOUT" example="ⰟⰖⰅⰓⰕⰈ">%s</xliff:g>)</string>
     <string name="subtype_with_layout_isv_LatnE1">Interslavic (Latin E1)(<xliff:g id="KEYBOARD_LAYOUT" example="QWERTZ">%s</xliff:g>)</string>
 
-    <string name="subtype_with_layout_sla_BGBDS">Slavonic (Cyrillic Bulgarian)(<xliff:g id="KEYBOARD_LAYOUT" example="ѪУЕИШК">%s</xliff:g>)</string>
+    <string name="subtype_with_layout_sla_BGBDS">Slavonic (Cyrillic BDS)(<xliff:g id="KEYBOARD_LAYOUT" example="ѪУЕИШК">%s</xliff:g>)</string>
     <string name="subtype_with_layout_sla_CyrlE1">Slavonic (Cyrillic E1)(<xliff:g id="KEYBOARD_LAYOUT" example="ЪУЕРТЗ">%s</xliff:g>)</string>
-    <string name="subtype_with_layout_sla_CyrsUcouke">Slavonic (Cyrillic Russian)(<xliff:g id="KEYBOARD_LAYOUT" example="ѪЦУКЕНѪЦУКЕН">%s</xliff:g>)</string>
-    <string name="subtype_with_layout_sla_GlagUcouke">Slavonic (Glagolitic Russian)(<xliff:g id="KEYBOARD_LAYOUT" example="ⰦⰜⰖⰍⰅⰐ">%s</xliff:g>)</string>
+    <string name="subtype_with_layout_sla_CyrsUcouke">Slavonic (Cyrillic UCOUKE)(<xliff:g id="KEYBOARD_LAYOUT" example="ѪЦУКЕНѪЦУКЕ">%s</xliff:g>)</string>
+    <string name="subtype_with_layout_sla_GlagUcouke">Slavonic (Glagolitic UCOUKE)(<xliff:g id="KEYBOARD_LAYOUT" example="ⰦⰜⰖⰍⰅ">%s</xliff:g>)</string>
     <string name="subtype_with_layout_sla_GlagE1">Slavonic (Glagolitic E1)(<xliff:g id="KEYBOARD_LAYOUT" example="ⰟⰖⰅⰓⰕⰈ">%s</xliff:g>)</string>
     <string name="subtype_with_layout_sla_LatnE1">Slavonic (Latin E1)(<xliff:g id="KEYBOARD_LAYOUT" example="QWERTZ">%s</xliff:g>)</string>
 

@@ -27,7 +27,7 @@
         </case>
     </switch>
     <switch>
-        <case latin:countryCode="latne1">
+        <case latin:localeCode="sla_LATNE1">
             <Row latin:keyWidth="9.091%p">
                 <include latin:keyboardLayout="@xml/rowkeys_slavonic_latne11" />
             </Row>

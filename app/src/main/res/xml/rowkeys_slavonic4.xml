@@ -24,12 +24,6 @@
             latin:keyWidth="15%p" />
         <include latin:keyboardLayout="@xml/key_comma" />
 
-        <switch>
-            <case latin:languageCode="sla">
-
-            </case>
-        </switch>
-
         <include
             latin:keyXPos="25%p"
             latin:keyboardLayout="@xml/key_space_4kw" />
